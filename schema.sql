@@ -36,4 +36,4 @@ PRIMARY KEY (id),
 FOREIGN KEY (role_id) REFERENCES role(id)
 );
 
-
+/* Table is referencing itself so values have to be inserted separately -- however mysql workbench throws error if inserting into individual columns */
