@@ -26,4 +26,4 @@ Should for some reason you want to use it, simply clone this repo and in the ter
 
 ## Video demonstration 
 
-![Recording](./assets/Employee_TrackerDB.gif)
+![Recording](./assets/employee_trackerDB.gif)
